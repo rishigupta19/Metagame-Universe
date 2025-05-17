@@ -40,27 +40,9 @@ Gaming Awards Website is a modern, immersive platform built to showcase gaming-r
 This project is deployed on Netlify and accessible via the following live link:
 
 Live Demo: https://your-netlify-site-name.netlify.app
-
-## Folder Structure
-/public
-  /videos           # Video assets used throughout the site
-  /audio            # Audio assets used throughout the site
-  /img              # Image assets used throughout the site
-  /fonts            # Font assets used throughout the site
-  
-/src
-  /components       # React components such as Hero, Features, Button, etc.
-  /styles           # Tailwind CSS configurations and custom styles
-  App.js            # Main application entry point
-  index.js          # ReactDOM render
   
 ## Contributing
 Feel free to open issues or submit pull requests. Your contributions are welcome!
 
 ## License
 This project is licensed under the MIT License.
-
-## Just replace:
-
-- `https://github.com/yourusername/repository-name.git` with your GitHub repo URL  
-- `https://your-netlify-site-name.netlify.app` with your actual Netlify URL  
