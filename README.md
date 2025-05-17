@@ -1,12 +1,78 @@
-# React + Vite
+# Gaming Awards Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About
 
-Currently, two official plugins are available:
+Gaming Awards Website is a modern, immersive platform built to showcase gaming-related content through engaging video backgrounds, smooth animations, and interactive UI elements. Designed with React and GSAP, it offers a seamless and dynamic user experience, highlighting the future of gaming in the metaverse era.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Full-screen background videos with smooth transitions and zoom effects  
+- Interactive video cards with tilt animation on hover  
+- Responsive design optimized for all devices  
+- Button components with icon support  
+- GSAP-powered animations for enhanced visual effects  
+- Clean, modern UI with Tailwind CSS styling  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- React.js  
+- GSAP (GreenSock Animation Platform)  
+- Tailwind CSS  
+- React Icons  
+- Netlify (for deployment)  
+
+## Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/repository-name.git
+Navigate to the project directory
+
+bash
+Copy
+Edit
+cd repository-name
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the development server
+
+bash
+Copy
+Edit
+npm start
+Deployment
+This project is deployed on Netlify and accessible via the following live link:
+
+Live Demo: https://your-netlify-site-name.netlify.app
+
+Folder Structure
+bash
+Copy
+Edit
+/public
+  /videos           # Video assets used throughout the site
+/src
+  /components       # React components such as Hero, Features, Button, etc.
+  /styles           # Tailwind CSS configurations and custom styles
+  App.js            # Main application entry point
+  index.js          # ReactDOM render
+Contributing
+Feel free to open issues or submit pull requests. Your contributions are welcome!
+
+License
+This project is licensed under the MIT License.
+
+less
+Copy
+Edit
+
+Just replace:
+
+- `https://github.com/yourusername/repository-name.git` with your GitHub repo URL  
+- `https://your-netlify-site-name.netlify.app` with your actual Netlify URL  
+
+If you want, I can also help generate the license text or add badges!
