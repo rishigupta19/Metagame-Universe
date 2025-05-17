@@ -39,7 +39,7 @@ Gaming Awards Website is a modern, immersive platform built to showcase gaming-r
 ## Deployment
 This project is deployed on Netlify and accessible via the following live link:
 
-Live Demo: https://your-netlify-site-name.netlify.app
+Live Demo: https://zentryverse.netlify.app
   
 ## Contributing
 Feel free to open issues or submit pull requests. Your contributions are welcome!
